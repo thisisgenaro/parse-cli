@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/DHowett/go-plist"
+	"howett.net/plist"
 	"github.com/ParsePlatform/parse-cli/parsecli"
 	"github.com/facebookgo/stackerr"
 	"github.com/inconshreveable/go-update"
