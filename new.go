@@ -9,7 +9,7 @@ import (
 
 	"github.com/ParsePlatform/parse-cli/herokucmd"
 	"github.com/ParsePlatform/parse-cli/parsecli"
-	"github.com/ParsePlatform/parse-cli/parsecmd"
+	"github.com/thisisgenaro/parse-cli/parsecmd"
 	"github.com/facebookgo/parse"
 	"github.com/facebookgo/stackerr"
 	"github.com/spf13/cobra"
