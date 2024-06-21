@@ -8,7 +8,7 @@ import (
 	"github.com/spf13/cobra"
 )
 
-replace "github.com/ParsePlatform/parse-cli/parsecmd" > "github.com/thisisgenaro/parse-cli/parsecmd"
+replace "github.com/ParsePlatform/parse-cli/parsecmd" => "github.com/thisisgenaro/parse-cli/parsecmd"
 
 type addCmd struct {
 	MakeDefault bool
